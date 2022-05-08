@@ -10,7 +10,7 @@ public class Factorial {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         int n=5;
+         int n=4;
          int ans=fact(n);
          System.out.println(ans);
 	}
