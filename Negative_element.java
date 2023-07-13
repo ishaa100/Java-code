@@ -31,7 +31,7 @@ public class Negative_element {
 		int n = arr.length;
 
 		rearrange(arr, n);
-		printArray(arr, n);
+		printArray(arr, n);// to find out negative element in array.
 	}
 }
 
