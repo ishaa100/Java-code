@@ -61,7 +61,7 @@ public static void main(String args[])
 	
 	circular(head);
 
-	System.out.print("Display list: \n");
+	System.out.print("Display list in : \n");
 	displayList(head);
 }
 
