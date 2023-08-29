@@ -56,7 +56,7 @@ public class Children_sum {
 		// Function call
 		if (tree.isSumProperty(tree.root) != 0)
 			System.out.println(
-				"The given tree satisfies children"
+				"The given tree satisfies children are"
 				+ " sum property");
 		else
 			System.out.println(
