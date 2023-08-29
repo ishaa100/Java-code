@@ -85,10 +85,10 @@ public class Array_queue{
 		System.out.println(queue.dequeue()
 						+ " dequeued from queue\n");
 
-		System.out.println("Front item is "
+		System.out.println("Front item = "
 						+ queue.front());
 
-		System.out.println("Rear item is "
+		System.out.println("Rear item = "
 						+ queue.rear());
 	}
 }
