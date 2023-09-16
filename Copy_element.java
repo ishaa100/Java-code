@@ -1,4 +1,4 @@
-public class Copy_element {
+⁹public class Copy_element {
 	public static void main(String[] args)
 	{
 		int a[] = { 1,5, 8, 3 ,7,0};
@@ -12,6 +12,7 @@ public class Copy_element {
 
 		// Change to b[] will also reflect in a[]
 		// as 'a' and 'b' refer to same location.
+//same size
 		
         ++b[0];
 
