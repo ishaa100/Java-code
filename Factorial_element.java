@@ -38,10 +38,8 @@ public class Factorial_element {
 		}
 		return res_size;
 	}
-
-	// Driver program
 	public static void main(String args[])
 	{
-		factorial(5);
+		factorial(4);
 	}
 }
