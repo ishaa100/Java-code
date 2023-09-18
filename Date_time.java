@@ -15,6 +15,6 @@ public class Date_time {
 		
 		String time = formatTime.format(date); 
 
-		System.out.println("Current Time in AM/PM Format is : " + time);
+		System.out.println("Current Time in AM/PM Format: " + time);
 	}
 }
