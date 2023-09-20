@@ -4,7 +4,7 @@ public class Contiguous_Sum {
    
 	public static void main(String[] args){
 		int[] a = {  -3, 4, -1, -2, 1, 5 };
-		System.out.println("Maximum contiguous sum is "
+		System.out.println("Maximum contiguous sum : "
 						+ maxSubArraySum(a));
 	}
 
