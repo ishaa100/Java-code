@@ -49,7 +49,7 @@ public class Circular_LL {
 		head = push(head, 2);
 		head = push(head, 110);
 
-		System.out.println("Contents of Circular "+ "Linked List:");
+		System.out.println("Contents of Circular is "+ "Linked List:");
 		printList(head);
 	}
 }
