@@ -1,4 +1,4 @@
-public class Factorial_element {
+⁹public class Factorial_element {
 	// This function finds factorial of
 	// large numbers and prints them
 	static void factorial(int n){
@@ -13,7 +13,7 @@ public class Factorial_element {
 		for (int x = 2; x <= n; x++)
 			res_size = multiply(x, res, res_size);
 
-		System.out.println("Factorial of given number is ");
+		System.out.println("Factorial of given number:");
 		for (int i = res_size - 1; i >= 0; i--)
 			System.out.print(res[i]);
 	}
